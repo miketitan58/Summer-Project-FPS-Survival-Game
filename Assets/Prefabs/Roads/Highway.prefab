@@ -1,0 +1,1986 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4032622734102525403
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 537927814309875778}
+  m_Layer: 0
+  m_Name: Highway
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &537927814309875778
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4032622734102525403}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -494.92685, y: -493.01, z: -20.252323}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4989017263526709887}
+  - {fileID: 2982377446040911963}
+  - {fileID: 2030077388314026237}
+  - {fileID: 2895670902720262219}
+  - {fileID: 701674581753585799}
+  - {fileID: 3672969556112099376}
+  - {fileID: 5855654733257675478}
+  - {fileID: 1513535691478049852}
+  - {fileID: 1687173803972092142}
+  - {fileID: 4681941985234976095}
+  - {fileID: 6891146152931603509}
+  - {fileID: 2364376753832890423}
+  - {fileID: 4798170013657308954}
+  - {fileID: 2049300187327380077}
+  - {fileID: 3540715063558740147}
+  - {fileID: 5081928558653179299}
+  - {fileID: 1761074260607959005}
+  - {fileID: 4989017263233849428}
+  - {fileID: 4989017263197459336}
+  - {fileID: 4989017264309517254}
+  - {fileID: 4989017262887115898}
+  - {fileID: 4989017263047872452}
+  - {fileID: 4989017263072628657}
+  - {fileID: 4989017263752467259}
+  - {fileID: 4989017264062812614}
+  - {fileID: 4989017264197775128}
+  - {fileID: 4989017263102461825}
+  - {fileID: 4989017264692859435}
+  - {fileID: 4989017263972668277}
+  - {fileID: 4989017262938911070}
+  - {fileID: 4989017264944586840}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &631718044155614548
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.74768
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &3672969556112099376 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 631718044155614548}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &801209691638089175
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &3540715063558740147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 801209691638089175}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1302155156034956591
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -119.74768
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &2895670902720262219 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 1302155156034956591}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1395792711476092223
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -129.74768
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &2982377446040911963 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 1395792711476092223}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1941797244992605523
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 120.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &2364376753832890423 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 1941797244992605523}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2471849313079501497
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 70.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &1761074260607959005 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 2471849313079501497}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2743003128566250905
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 170.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &2030077388314026237 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 2743003128566250905}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2760075205701363465
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 100.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &2049300187327380077 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 2760075205701363465}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3267178794752064906
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 150.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &1687173803972092142 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 3267178794752064906}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3403730513219287384
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 160.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &1513535691478049852 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 3403730513219287384}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3711400672972553699
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -109.74768
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &701674581753585799 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 3711400672972553699}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7322596280791918929
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 130.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &6891146152931603509 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 7322596280791918929}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7745668659507613618
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -89.74768
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &5855654733257675478 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 7745668659507613618}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8695276995711517310
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 110.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4798170013657308954 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 8695276995711517310}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8846418781574111291
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 140.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4681941985234976095 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 8846418781574111291}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8988042971976095943
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 80.25232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &5081928558653179299 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 8988042971976095943}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840746041103008
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -29.747677
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017263047872452 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840746041103008}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840746050360021
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -19.747677
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017263072628657 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840746050360021}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840746183633978
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.252323
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017262938911070 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840746183633978}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840746202382622
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -39.747677
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017262887115898 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840746202382622}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840746291266864
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -79.74768
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017263233849428 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840746291266864}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840746422721253
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 40.252323
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017263102461825 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840746422721253}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840746462400236
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -69.74768
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017263197459336 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840746462400236}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840746502248219
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -49.747677
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017263526709887 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840746502248219}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840746812903007
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.747677
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017263752467259 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840746812903007}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840747039362210
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 60.252323
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017264062812614 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840747039362210}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840747297345041
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 30.252323
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017263972668277 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840747297345041}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840747363690146
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -59.747677
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017264309517254 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840747363690146}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840747441877628
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 50.252323
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017264197775128 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840747441877628}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840747935989052
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 20.252323
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017264944586840 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840747935989052}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9151840748020453199
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 537927814309875778}
+    m_Modifications:
+    - target: {fileID: 4196601064658263392, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_Name
+      value: Road Piece Highway (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 494.92685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 493.51752
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.25232315
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+--- !u!4 &4989017264692859435 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4196601064658263396, guid: 3694baa2822dc4cda80c9b92bdaf5fc6, type: 3}
+  m_PrefabInstance: {fileID: 9151840748020453199}
+  m_PrefabAsset: {fileID: 0}
