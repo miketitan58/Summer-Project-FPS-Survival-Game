@@ -14,8 +14,8 @@ choose from.
 As I am working full time, and doing a lot of 
 addition learning on the side, the game production
 is very slow. Right now the game is currently in the 
-level-design phase, and has no game functionality 
-as of yet.
+development phase, and has very little game functionality 
+as of yet. The level design however is almost complete.
 
 ## Coming Soon
 - Fully integrated shooting mechanics
