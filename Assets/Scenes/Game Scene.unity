@@ -28068,6 +28068,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FirstPersonController
       objectReference: {fileID: 0}
+    - target: {fileID: 5229000316048462328, guid: 6209cdd5c74154a968cc2bf91e2d1e4f, type: 3}
+      propertyPath: m_CullingMask.m_Bits
+      value: 55
+      objectReference: {fileID: 0}
     - target: {fileID: 6568446839174747243, guid: 6209cdd5c74154a968cc2bf91e2d1e4f, type: 3}
       propertyPath: m_CastShadows
       value: 0
